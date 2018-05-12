@@ -1,0 +1,27 @@
+_repo: About-Orchids--A-Chat_17155
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boyle, Frederick
+    birthdate: 1841
+    gutenberg_agent_id: '7179'
+    url: http://www.gutenberg.org/2009/agents/7179
+description: ''
+gutenberg_bookshelf: Horticulture
+gutenberg_issued: '2005-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17155'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orchids'
+- !lcsh 'Orchid culture'
+- !lcc 'SB'
+title: 'About Orchids: A Chat'
+url: http://www.gutenberg.org/ebooks/17155
